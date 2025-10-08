@@ -1,0 +1,73 @@
+[
+  {
+  "id": 1,
+  "tecnica": "Óleo sobre tela",
+  "tema": "Figura",
+  "video": "cuadro_1.mp4",
+  "imagen": "cuadro_1.jpg",
+  "duracion": 18,
+  "peso_mb": 1.9,
+  "estado": "disponible",
+  "sinopsis": "Estudio del movimiento corporal y su ritmo interno.",
+  "audio": "audio_1.wav",
+  "descripcion": "Un grupo de cuatro músicos abstractos tocando instrumentos, de pie sobre un fondo azul intenso. Las figuras están estilizadas con ángulos marcados y tonos morados apagados, lo que captura la atmósfera de una actuación de jazz. La composición es dinámica y se centra en el ritmo y el movimiento."
+},
+
+  {
+    "id": 2,
+    "tecnica": "Temple / mixta",
+    "tema": "Figura",
+    "video": "cuadro_2.mp4",
+    "imagen": "cuadro_2.jpg",
+    "duracion": 25,
+    "peso_mb": 5.5,
+    "estado": "disponible",
+    "sinopsis": "Superposición de cuerpos en diálogo rítmico."
+  },
+  {
+    "id": 3,
+    "tecnica": "Óleo sobre tela",
+    "tema": "Retrato",
+    "video": "cuadro_3.mp4",
+    "imagen": "cuadro_3.jpg",
+    "duracion": 27,
+    "peso_mb": 7.2,
+    "estado": "disponible",
+    "sinopsis": "Un rostro que evoluciona con el paso de los segundos."
+  },
+  {
+    "id": 4,
+    "tecnica": "Mixta",
+    "tema": "Figura",
+    "video": "cuadro_4.mp4",
+    "imagen": "cuadro_4.jpg",
+    "duracion": 22,
+    "peso_mb": 4.4,
+    "estado": "disponible",
+    "sinopsis": "Figuras y planos en tensión dinámica."
+  },
+  {
+    "id": 5,
+    "tecnica": "Óleo",
+    "tema": "Figura",
+    "video": "cuadro_5.mp4",
+    "imagen": "cuadro_5.jpg",
+    "duracion": 19,
+    "peso_mb": 2.0,
+    "estado": "disponible",
+    "sinopsis": "Desplazamiento corporal y repetición."
+  },
+  {
+    "id": 6,
+    "titulo": "Escultura",
+    "anio": 1970,
+    "tecnica": "Mixta",
+    "tema": "Objeto",
+    "video": "Escultura.mp4",
+    "imagen": "Escultura.jpg",
+    "duracion": 12,
+    "peso_mb": 0.9,
+    "estado": "disponible",
+    "sinopsis": "Volumen y masa en tensión."
+  }
+]
